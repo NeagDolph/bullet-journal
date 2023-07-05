@@ -1,0 +1,126 @@
+.weekSection {
+    /*-fx-border-color: gray;*/
+    -fx-background-size: 100% auto;
+    /*-fx-border-style: hidden dashed hidden hidden;*/
+    /*-fx-border-width: 1px;*/
+}
+
+.weekSection > label {
+    -fx-start-margin: 30px;
+}
+
+.panes {
+    -fx-background-color: transparent;
+    -fx-border-color: black;
+    -fx-border-width: 3px;
+}
+.panes2 {
+    -fx-border-color: black;
+    -fx-border-width: 3px;
+}
+.panes2 .viewport {
+    -fx-border-color: black;
+    -fx-border-width: 3px;
+    -fx-background-color: #FFF8E7;
+}
+.panes .viewport {
+    -fx-background-color: transparent;
+}
+
+.floralBackground {
+    -fx-background-image: url("/seamlessFloralPattern.png");
+}
+
+.label-hover-effect {
+    -fx-font-weight: bold;
+    -fx-text-fill: black;
+    -fx-font-family: 'Sama Devanagari';
+    -fx-font-size: 18px;
+}
+
+.label-hover-effect:hover {
+    -fx-text-fill: white;
+}
+
+.normalButton {
+    -fx-background-color: #FFF8E7;
+}
+.normalButton:pressed {
+    -fx-background-image: url('/ashleigh98765.png');
+    -fx-background-size: cover;
+}
+
+.weekLabel {
+    -fx-alignment: CENTER;
+}
+
+.menu-bar {
+    -fx-background-color: #FFF8E7;
+}
+
+.menu .label {
+    -fx-font-family: "Hannotate TC";
+    -fx-font-size: 14px;
+}
+
+.woodBackground {
+    -fx-background-image: url('/bevo_the_pages_of_a_notebook_so_that_one_page_fills_up_the_scr_47f8be58-fab6-4f34-a4f9-3e8c6fc496f2.png');;
+}
+
+.otherBackground {
+    -fx-background-image: url('/bevo_piece_of_paper_in_kentaro_miura_style_9e5cf806-c542-4336-b831-c9d5e5f99bd6.png');
+}
+
+.task {
+    -fx-background-color: #D8BFD8;
+    -fx-background-image: url('/UniformTIle1.png');
+    -fx-text-fill: #4B0082;
+    -fx-border-color: #8A2BE2;
+    -fx-border-width: 2px;
+    -fx-padding: 5px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+.task:hover {
+    /*-fx-background-color: #d2b4ed;*/
+    -fx-text-fill: white;
+    -fx-background-image: url('/UniformTIle2.png');
+    -fx-border-color: #8A2BE2;
+    -fx-border-width: 2px;
+    -fx-padding: 5px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+.event {
+    -fx-background-image: url('/PurpleTile1.png');
+    -fx-text-fill: #00008B;
+    -fx-border-color: #1C6EA4;
+    -fx-border-width: 2px;
+    -fx-padding: 5px;
+    -fx-start-margin: 10px;
+    -fx-end-margin: 10px;
+    -fx-gap-start-and-end: 10px;
+}
+
+.event:hover {
+    -fx-background-color: #c1e8f5;
+    -fx-background-image: url('/PurpleTile2.png');
+    -fx-text-fill: white;
+    -fx-border-color: #1C6EA4;
+    -fx-border-width: 2px;
+    -fx-padding: 5px;
+}
+
+
+.sidebarTask {
+    -fx-padding: 5px;
+    -fx-indent: 10px;
+    -fx-border-radius: 10px;
+    -fx-border-width: 1px;
+    -fx-border-style: dotted;
+    -fx-border-color: gray;
+    -fx-end-margin: 5px;
+    -fx-start-margin: 5px;
+}

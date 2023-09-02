@@ -93,5 +93,3 @@ Alternatively, you could also download the [MacOS binary from the releases page]
 [Most art used - Midjourney AI](https://midjourney.com/)
 
 Splash Screen - Edited Fortnite Splash Screen
-
-[Button press images - DeviantArt user Ashleigh98765](https://www.deviantart.com/ashleigh98765)
